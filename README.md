@@ -1,6 +1,6 @@
 ### Angular Blog
 
-It is a demo project for mentorship program
+It is a demo project for [Mentorship](https://mojo.redhat.com/groups/cp-mentor-community) program
 
 
 #### Getting Start
@@ -17,7 +17,7 @@ yarn run build
 ```
 
 
-Open `dist/index.html` to browser to check update
+Open `dist/index.html` in browser to check update
 
 
 Will provide a local serve later
